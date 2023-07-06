@@ -1,1 +1,0 @@
-// I dunno how to write javascript and I'm not sure if I want to, lmao.
